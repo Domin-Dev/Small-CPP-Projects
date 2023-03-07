@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678211302 source:c:\users\ornow\documents\github\small-cpp-projects\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1678208713 source:c:\users\ornow\documents\github\small-cpp-projects\snake\src\vector2.cpp
+	"Vector2.h"
+
+1678208755 c:\users\ornow\documents\github\small-cpp-projects\snake\include\vector2.h
+
