@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1678455345 source:c:\users\ornow\documents\github\small-cpp-projects\snake\main.cpp
+1678655400 source:c:\users\ornow\documents\github\small-cpp-projects\snake\main.cpp
 	<iostream>
 	<windows.h>
 	<conio.h>

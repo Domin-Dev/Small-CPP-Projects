@@ -269,6 +269,7 @@ void UpdateFrame()
            SetConsoleTextAttribute(hConsole, 4);
            cout << "  ";
            }
+
        }
        SetConsoleTextAttribute(hConsole, 68);
        cout << "==" << endl;
